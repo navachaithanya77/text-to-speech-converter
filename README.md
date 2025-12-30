@@ -4,6 +4,8 @@
 
 This repository contains a simple text-to-voice converter built using HTML, CSS, and JavaScript. The application allows users to input text and have it converted into speech using browser-based text-to-speech functionality.
 
+Live Demo:https://text-to-speechconverter1.netlify.app/
+
 ## Project Structure
 
 - **index.html**: The HTML file for the structure of the text-to-voice converter.
@@ -25,5 +27,6 @@ Navigate into the folder
 Open index.html in your browser
 
 No server or database needed — runs fully in the browser!
+
 
 
