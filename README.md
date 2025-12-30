@@ -16,18 +16,14 @@ This repository contains a simple text-to-voice converter built using HTML, CSS,
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Hritickjha/Text-To-voice-Converter-Using-Javascript.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd Text-To-voice-Converter-Using-Javascript
-    ```
-3. Open `index.html` in your web browser to start using the text-to-voice converter.
+    git clone https://github.com/navachaithanya77/text-to-speech-converter.git
 
-## License
+2. Open the project
 
-This project is licensed under the MIT License.
+Navigate into the folder
 
-## Contact
+Open index.html in your browser
 
-For any questions or feedback, feel free to contact me at hritickjha@example.com.
+No server or database needed — runs fully in the browser!
+
+
